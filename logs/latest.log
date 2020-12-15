@@ -1,0 +1,19 @@
+[00:45:02] [Server thread/INFO]: Qayin was slain by Enderman
+[01:11:57] [Netty Epoll Server IO #0/INFO]: <Qayin> 58 -218[m
+[02:01:58] [Server thread/INFO]: Qayin lost connection: Disconnected
+[02:01:58] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
+[02:01:58] [Server thread/INFO]: Qayin left the game
+[02:11:58] [Server thread/INFO]: [EmptyServerStopper]Server empty -> shutingdown.[m
+[02:11:58] [Server thread/INFO]: Stopping server
+[02:11:58] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v0.4
+[02:11:58] [Server thread/INFO]: Saving players
+[02:11:58] [Server thread/INFO]: Saving worlds
+[02:11:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
