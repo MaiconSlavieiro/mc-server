@@ -1,158 +1,79 @@
-[22:03:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:03:07] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[22:03:09] [Worker-Main-2/INFO]: Loaded 7 recipes
-[22:03:14] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[22:03:14] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[22:03:14] [Server thread/INFO]: Loading properties
-[22:03:14] [Server thread/INFO]: Default game type: SURVIVAL
-[22:03:14] [Server thread/INFO]: Generating keypair
-[22:03:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:03:14] [Server thread/INFO]: Using epoll channel type
-[22:03:15] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[22:03:15] [Server thread/INFO]: Preparing level "world"
-[22:03:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:20] [Server thread/INFO]: Preparing spawn area: 30%
-[22:03:20] [Server thread/INFO]: Preparing spawn area: 81%
-[22:03:21] [Server thread/INFO]: Time elapsed: 5071 ms
-[22:03:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:03:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:03:23] [Worker-Main-2/INFO]: Preparing spawn area: 28%
-[22:03:24] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[22:03:24] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[22:03:25] [Worker-Main-2/INFO]: Preparing spawn area: 33%
-[22:03:25] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[22:03:26] [Worker-Main-2/INFO]: Preparing spawn area: 35%
-[22:03:26] [Worker-Main-2/INFO]: Preparing spawn area: 38%
-[22:03:27] [Worker-Main-2/INFO]: Preparing spawn area: 39%
-[22:03:27] [Worker-Main-2/INFO]: Preparing spawn area: 41%
-[22:03:28] [Worker-Main-2/INFO]: Preparing spawn area: 43%
-[22:03:28] [Worker-Main-2/INFO]: Preparing spawn area: 44%
-[22:03:29] [Worker-Main-2/INFO]: Preparing spawn area: 46%
-[22:03:29] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[22:03:30] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[22:03:30] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[22:03:31] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[22:03:31] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[22:03:32] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[22:03:33] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[22:03:33] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[22:03:33] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[22:03:34] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[22:03:34] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[22:03:35] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[22:03:35] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[22:03:36] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[22:03:36] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[22:03:37] [Worker-Main-2/INFO]: Preparing spawn area: 61%
-[22:03:37] [Worker-Main-2/INFO]: Preparing spawn area: 61%
-[22:03:38] [Server thread/INFO]: Preparing spawn area: 62%
-[22:03:38] [Worker-Main-2/INFO]: Preparing spawn area: 62%
-[22:03:39] [Worker-Main-2/INFO]: Preparing spawn area: 62%
-[22:03:39] [Worker-Main-2/INFO]: Preparing spawn area: 63%
-[22:03:40] [Worker-Main-2/INFO]: Preparing spawn area: 63%
-[22:03:40] [Worker-Main-2/INFO]: Preparing spawn area: 64%
-[22:03:41] [Worker-Main-2/INFO]: Preparing spawn area: 64%
-[22:03:42] [Worker-Main-2/INFO]: Preparing spawn area: 64%
-[22:03:42] [Worker-Main-2/INFO]: Preparing spawn area: 64%
-[22:03:42] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[22:03:43] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[22:03:43] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[22:03:44] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[22:03:44] [Worker-Main-2/INFO]: Preparing spawn area: 66%
-[22:03:45] [Worker-Main-2/INFO]: Preparing spawn area: 66%
-[22:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 66%
-[22:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 67%
-[22:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 67%
-[22:03:47] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[22:03:47] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[22:03:48] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[22:03:48] [Server thread/INFO]: Preparing spawn area: 68%
-[22:03:49] [Worker-Main-2/INFO]: Preparing spawn area: 69%
-[22:03:49] [Server thread/INFO]: Preparing spawn area: 69%
-[22:03:51] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:51] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:51] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:51] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:52] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:53] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:53] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:53] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:54] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:54] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:55] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[22:03:55] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[22:03:56] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[22:03:56] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[22:03:57] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[22:03:57] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[22:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[22:04:01] [Server thread/INFO]: Time elapsed: 40243 ms
-[22:04:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:06] [Server thread/INFO]: Preparing spawn area: 3%
-[22:04:07] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:07] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:08] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:08] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:09] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:09] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:10] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:10] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:11] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:11] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:12] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:12] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:13] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:13] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:14] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:14] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:15] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:15] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[22:04:16] [Worker-Main-2/INFO]: Preparing spawn area: 84%
-[22:04:16] [Worker-Main-2/INFO]: Preparing spawn area: 84%
-[22:04:17] [Worker-Main-2/INFO]: Preparing spawn area: 88%
-[22:04:17] [Worker-Main-2/INFO]: Preparing spawn area: 88%
-[22:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 88%
-[22:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 88%
-[22:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[22:04:19] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[22:04:20] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[22:04:20] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[22:04:21] [Server thread/INFO]: Time elapsed: 19485 ms
-[22:04:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:04:21] [Server thread/INFO]: Done (65.621s)! For help, type "help"
-[22:04:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6689ms or 133 ticks behind
-[22:04:44] [User Authenticator #1/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
-[22:04:51] [Server thread/INFO]: Qayin[/143.208.13.42:55946] logged in with entity id 206 at ([world]-218.67208211704826, 64.0, -251.76879503043938)
-[22:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32794ms or 655 ticks behind
-[22:05:41] [Server thread/INFO]: Qayin lost connection: Disconnected
-[22:05:41] [Server thread/INFO]: Qayin left the game
-[22:06:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5898ms or 117 ticks behind
-[22:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19079ms or 381 ticks behind
-[22:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17156ms or 343 ticks behind
-[22:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13557ms or 271 ticks behind
-[22:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12121ms or 242 ticks behind
-[22:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12961ms or 259 ticks behind
-[22:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[22:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21826ms or 436 ticks behind
+[20:25:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:25:06] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:25:06] [Worker-Main-13/INFO]: Loaded 7 recipes
+[20:25:09] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[20:25:09] [Server thread/INFO]: Loading properties
+[20:25:09] [Server thread/INFO]: Default game type: SURVIVAL
+[20:25:09] [Server thread/INFO]: Generating keypair
+[20:25:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:25:09] [Server thread/INFO]: Using default channel type
+[20:25:10] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[20:25:10] [Server thread/WARN]: Couldn't load server icon
+java.lang.IllegalArgumentException: Must be 64 pixels wide
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadServerIcon0(CraftServer.java:1804) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadServerIcon0(CraftServer.java:1792) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadIcon(CraftServer.java:866) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.<init>(CraftServer.java:344) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.<init>(PlayerList.java:77) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedPlayerList.<init>(SourceFile:16) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:178) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:786) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:155) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[20:25:11] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:25:15] [Server thread/WARN]: Legacy plugin EmptyServerStopper v0.3 does not specify an api-version.
+[20:25:15] [Server thread/INFO]: [EmptyServerStopper] Loading EmptyServerStopper v0.3
+[20:25:15] [Server thread/INFO]: Preparing level "world"
+[20:25:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:25:16] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:16] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:16] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:17] [Server thread/INFO]: Time elapsed: 1684 ms
+[20:25:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:25:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:18] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[20:25:19] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[20:25:19] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[20:25:20] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[20:25:20] [Worker-Main-10/INFO]: Preparing spawn area: 86%
+[20:25:21] [Worker-Main-10/INFO]: Preparing spawn area: 96%
+[20:25:21] [Server thread/INFO]: Time elapsed: 3654 ms
+[20:25:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:25:21] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:21] [Worker-Main-16/INFO]: Preparing spawn area: 83%
+[20:25:21] [Server thread/INFO]: Time elapsed: 792 ms
+[20:25:21] [Server thread/INFO]: [EmptyServerStopper] Enabling EmptyServerStopper v0.3
+[20:25:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:25:21] [Server thread/INFO]: Done (6.473s)! For help, type "help"
+[20:25:21] [Server thread/ERROR]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.bukkit.craftbukkit.libs.org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:936) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:790) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:155) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[20:41:07] [User Authenticator #1/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
+[20:41:07] [Server thread/INFO]: Qayin[/25.109.14.203:62154] logged in with entity id 222 at ([world]-223.77002691964083, 64.5625, -242.60988282169487)
+[20:43:29] [Server thread/INFO]: Qayin lost connection: Disconnected
+[20:43:29] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
+[20:43:29] [Server thread/INFO]: Qayin left the game
+[20:48:22] [User Authenticator #2/INFO]: UUID of player Tenguelegue is b2fd2ec0-12b7-4dce-b346-43c04a892e43
+[20:48:22] [Server thread/INFO]: Tenguelegue[/25.111.117.218:61789] logged in with entity id 524 at ([world]-210.5, 64.0, -198.5)
+[20:48:43] [Server thread/INFO]: Tenguelegue lost connection: Disconnected
+[20:48:43] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
+[20:48:43] [Server thread/INFO]: Tenguelegue left the game
+[20:49:07] [Server thread/INFO]: Stopping server
+[20:49:07] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v0.3
+[20:49:07] [Server thread/INFO]: Saving players
+[20:49:07] [Server thread/INFO]: Saving worlds
+[20:49:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:49:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:49:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
