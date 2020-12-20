@@ -1,79 +1,115 @@
-[20:25:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:25:06] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[20:25:06] [Worker-Main-13/INFO]: Loaded 7 recipes
-[20:25:09] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[20:25:09] [Server thread/INFO]: Loading properties
-[20:25:09] [Server thread/INFO]: Default game type: SURVIVAL
-[20:25:09] [Server thread/INFO]: Generating keypair
-[20:25:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:25:09] [Server thread/INFO]: Using default channel type
-[20:25:10] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[20:25:10] [Server thread/WARN]: Couldn't load server icon
-java.lang.IllegalArgumentException: Must be 64 pixels wide
-	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadServerIcon0(CraftServer.java:1804) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadServerIcon0(CraftServer.java:1792) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadIcon(CraftServer.java:866) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.<init>(CraftServer.java:344) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at net.minecraft.server.v1_16_R3.PlayerList.<init>(PlayerList.java:77) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at net.minecraft.server.v1_16_R3.DedicatedPlayerList.<init>(SourceFile:16) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:178) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:786) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:155) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
-[20:25:11] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[20:25:15] [Server thread/WARN]: Legacy plugin EmptyServerStopper v0.3 does not specify an api-version.
-[20:25:15] [Server thread/INFO]: [EmptyServerStopper] Loading EmptyServerStopper v0.3
-[20:25:15] [Server thread/INFO]: Preparing level "world"
-[20:25:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:25:16] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:16] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:16] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:17] [Server thread/INFO]: Time elapsed: 1684 ms
-[20:25:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:25:18] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:18] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:18] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:25:19] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[20:25:19] [Worker-Main-12/INFO]: Preparing spawn area: 83%
-[20:25:20] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[20:25:20] [Worker-Main-10/INFO]: Preparing spawn area: 86%
-[20:25:21] [Worker-Main-10/INFO]: Preparing spawn area: 96%
-[20:25:21] [Server thread/INFO]: Time elapsed: 3654 ms
-[20:25:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:25:21] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:21] [Worker-Main-16/INFO]: Preparing spawn area: 83%
-[20:25:21] [Server thread/INFO]: Time elapsed: 792 ms
-[20:25:21] [Server thread/INFO]: [EmptyServerStopper] Enabling EmptyServerStopper v0.3
-[20:25:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:25:21] [Server thread/INFO]: Done (6.473s)! For help, type "help"
-[20:25:21] [Server thread/ERROR]: Couldn't load server icon
-java.lang.IllegalStateException: Must be 64 pixels wide
-	at org.bukkit.craftbukkit.libs.org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:936) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:790) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:155) ~[craftbukkit-1.16.4.jar:git-Bukkit-3eb7236]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
-[20:41:07] [User Authenticator #1/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
-[20:41:07] [Server thread/INFO]: Qayin[/25.109.14.203:62154] logged in with entity id 222 at ([world]-223.77002691964083, 64.5625, -242.60988282169487)
-[20:43:29] [Server thread/INFO]: Qayin lost connection: Disconnected
-[20:43:29] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
-[20:43:29] [Server thread/INFO]: Qayin left the game
-[20:48:22] [User Authenticator #2/INFO]: UUID of player Tenguelegue is b2fd2ec0-12b7-4dce-b346-43c04a892e43
-[20:48:22] [Server thread/INFO]: Tenguelegue[/25.111.117.218:61789] logged in with entity id 524 at ([world]-210.5, 64.0, -198.5)
-[20:48:43] [Server thread/INFO]: Tenguelegue lost connection: Disconnected
-[20:48:43] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
-[20:48:43] [Server thread/INFO]: Tenguelegue left the game
-[20:49:07] [Server thread/INFO]: Stopping server
-[20:49:07] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v0.3
-[20:49:07] [Server thread/INFO]: Saving players
-[20:49:07] [Server thread/INFO]: Saving worlds
-[20:49:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:49:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:49:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:49:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:10:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:10:56] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[00:10:58] [Worker-Main-2/INFO]: Loaded 7 recipes
+[00:11:01] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[00:11:01] [Server thread/INFO]: Loading properties
+[00:11:01] [Server thread/INFO]: Default game type: SURVIVAL
+[00:11:01] [Server thread/INFO]: Generating keypair
+[00:11:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:11:02] [Server thread/INFO]: Using epoll channel type
+[00:11:03] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[00:11:04] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:11:11] [Server thread/WARN]: Legacy plugin EmptyServerStopper v0.3 does not specify an api-version.
+[00:11:11] [Server thread/INFO]: [EmptyServerStopper] Loading EmptyServerStopper v0.3
+[00:11:11] [Server thread/INFO]: Preparing level "world"
+[00:11:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:11:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:15] [Server thread/INFO]: Preparing spawn area: 37%
+[00:11:15] [Server thread/INFO]: Time elapsed: 3568 ms
+[00:11:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:11:17] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:17] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:17] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:17] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[00:11:17] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:18] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:18] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:19] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:19] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:20] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:20] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:21] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:21] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:22] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:22] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:23] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:23] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:24] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:24] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:25] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:26] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:26] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:26] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:27] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[00:11:27] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[00:11:28] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[00:11:28] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[00:11:29] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[00:11:29] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[00:11:30] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[00:11:30] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[00:11:31] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[00:11:31] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[00:11:32] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[00:11:32] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[00:11:33] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[00:11:33] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[00:11:34] [Worker-Main-2/INFO]: Preparing spawn area: 88%
+[00:11:34] [Server thread/INFO]: Time elapsed: 18854 ms
+[00:11:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:11:35] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:35] [Server thread/INFO]: Preparing spawn area: 0%
+[00:11:35] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:36] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:11:36] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[00:11:37] [Worker-Main-2/INFO]: Preparing spawn area: 91%
+[00:11:37] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[00:11:37] [Server thread/INFO]: Time elapsed: 3145 ms
+[00:11:37] [Server thread/INFO]: [EmptyServerStopper] Enabling EmptyServerStopper v0.3
+[00:11:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:11:38] [Server thread/INFO]: Done (26.107s)! For help, type "help"
+[00:12:09] [User Authenticator #1/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
+[00:12:10] [Server thread/INFO]: Qayin[/143.208.13.22:2897] logged in with entity id 206 at ([world]-221.6533704271896, 64.0, -242.8396937960355)
+[00:12:53] [User Authenticator #2/INFO]: UUID of player Tenguelegue is b2fd2ec0-12b7-4dce-b346-43c04a892e43
+[00:12:53] [Server thread/INFO]: Tenguelegue[/177.75.95.134:61971] logged in with entity id 363 at ([world]-210.5, 64.0, -198.5)
+[00:12:56] [Server thread/INFO]: Qayin lost connection: Disconnected
+[00:12:56] [Server thread/INFO]: Qayin left the game
+[00:13:06] [User Authenticator #3/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
+[00:13:07] [Server thread/INFO]: Qayin[/143.208.13.22:2133] logged in with entity id 382 at ([world]-215.9467665713942, 72.0, -234.58224204870078)
+[00:18:01] [Server thread/INFO]: Tenguelegue has made the advancement [Sweet Dreams]
+[00:37:00] [Server thread/INFO]: Tenguelegue has made the advancement [Stone Age]
+[00:55:15] [Server thread/INFO]: Tenguelegue has made the advancement [Acquire Hardware]
+[00:55:47] [Server thread/INFO]: Tenguelegue has made the advancement [Isn't It Iron Pick]
+[01:23:57] [Server thread/INFO]: Qayin was slain by Zombie
+[01:24:28] [Server thread/INFO]: Tenguelegue has made the advancement [Monster Hunter]
+[01:41:41] [Server thread/INFO]: Tenguelegue lost connection: Disconnected
+[01:41:41] [Server thread/INFO]: Tenguelegue left the game
+[01:41:50] [User Authenticator #4/INFO]: UUID of player Tenguelegue is b2fd2ec0-12b7-4dce-b346-43c04a892e43
+[01:41:50] [Server thread/INFO]: Tenguelegue[/177.75.95.134:56815] logged in with entity id 15133 at ([world]-257.6027750109938, 71.0, -335.6380245754409)
+[01:42:54] [Server thread/INFO]: Qayin was shot by Skeleton
+[01:43:43] [Server thread/INFO]: Tenguelegue was shot by Skeleton
+[01:44:28] [Server thread/INFO]: Qayin was slain by Zombie
+[01:50:38] [Server thread/INFO]: Qayin lost connection: Disconnected
+[01:50:38] [Server thread/INFO]: Qayin left the game
+[01:50:43] [Server thread/INFO]: Tenguelegue lost connection: Disconnected
+[01:50:43] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
+[01:50:43] [Server thread/INFO]: Tenguelegue left the game
+[01:50:59] [Server thread/INFO]: Stopping the server
+[01:50:59] [Server thread/INFO]: Stopping server
+[01:50:59] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v0.3
+[01:50:59] [Server thread/INFO]: Saving players
+[01:50:59] [Server thread/INFO]: Saving worlds
+[01:50:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:51:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:51:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:51:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:51:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:51:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:51:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:51:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:51:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
