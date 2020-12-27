@@ -1,81 +1,91 @@
-[00:07:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@3bd6fc5e[id=<null>,name=AlexDambros,properties={},legacy=false] (/177.83.36.234:61746) lost connection: Disconnected
-[00:07:30] [User Authenticator #3/INFO]: UUID of player AlexDambros is a6462c5d-d725-4ace-89db-4899576d1090
-[00:07:30] [Server thread/INFO]: AlexDambros[/177.83.36.234:61762] logged in with entity id 13415 at ([world]-220.81451984008342, 70.0, -219.89903284917042)
-[00:07:51] [Netty Epoll Server IO #0/INFO]: <Qayin> olá[m
-[00:08:30] [Netty Epoll Server IO #3/INFO]: <AlexDambros> ola[m
-[00:08:35] [Netty Epoll Server IO #3/INFO]: <AlexDambros> tranquilo??[m
-[00:08:59] [Netty Epoll Server IO #0/INFO]: <Qayin> mais o meno[m
-[00:09:02] [Netty Epoll Server IO #0/INFO]: <Qayin> e tu?[m
-[00:09:39] [Netty Epoll Server IO #3/INFO]: <AlexDambros> to bem[m
-[00:09:43] [Netty Epoll Server IO #3/INFO]: <AlexDambros> esperando rango[m
-[00:11:33] [Netty Epoll Server IO #3/INFO]: <AlexDambros> tem 800 villagers la kkk[m
-[00:11:38] [Netty Epoll Server IO #0/INFO]: <Qayin> hahah[m
-[00:11:46] [Netty Epoll Server IO #3/INFO]: <AlexDambros> se coloca mais cama eles fazer mais hehe[m
-[00:11:51] [Netty Epoll Server IO #0/INFO]: <Qayin> tem que fazer uma farm para separar os melhores[m
-[00:11:54] [Netty Epoll Server IO #3/INFO]: <AlexDambros> já teve invasão[m
-[00:12:02] [Netty Epoll Server IO #0/INFO]: <Qayin> teve?[m
-[00:12:09] [Netty Epoll Server IO #3/INFO]: <AlexDambros> n sei to pedindo[m
-[00:12:14] [Netty Epoll Server IO #0/INFO]: <Qayin> ah[m
-[00:12:17] [Netty Epoll Server IO #0/INFO]: <Qayin> não[m
-[00:12:28] [Netty Epoll Server IO #3/INFO]: <AlexDambros> humm[m
-[00:12:44] [Netty Epoll Server IO #3/INFO]: <AlexDambros> como tá a busta por dimas[m
-[00:12:50] [Netty Epoll Server IO #0/INFO]: <Qayin> dificil[m
-[00:12:52] [Netty Epoll Server IO #0/INFO]: <Qayin> hehe[m
-[00:13:52] [Netty Epoll Server IO #3/INFO]: <AlexDambros> home[m
-[00:13:55] [Netty Epoll Server IO #3/INFO]: <AlexDambros> achei dimas[m
-[00:13:59] [Netty Epoll Server IO #0/INFO]: <Qayin> boa[m
-[00:14:01] [Netty Epoll Server IO #3/INFO]: <AlexDambros> kkkk[m
-[00:14:04] [Netty Epoll Server IO #3/INFO]: <AlexDambros> 4[m
-[00:14:23] [Netty Epoll Server IO #3/INFO]: <AlexDambros> sobe pra camada 13[m
-[00:14:29] [Netty Epoll Server IO #3/INFO]: <AlexDambros> to te falando hehehe[m
-[00:14:47] [Netty Epoll Server IO #0/INFO]: <Qayin> sim, agora estou cavando na 13 hehehe[m
-[00:14:48] [Netty Epoll Server IO #3/INFO]: <AlexDambros> vc ta onde??[m
-[00:14:58] [Netty Epoll Server IO #0/INFO]: <Qayin> pega o segundo carinho[m
-[00:14:59] [Netty Epoll Server IO #3/INFO]: <AlexDambros> te entregar os dimas[m
-[00:15:06] [Netty Epoll Server IO #3/INFO]: <AlexDambros> logo vou ter que sair[m
-[00:15:14] [Netty Epoll Server IO #3/INFO]: <AlexDambros> faz a mesa de enchant[m
-[00:15:32] [Netty Epoll Server IO #3/INFO]: <AlexDambros> coloquei no bau[m
-[00:15:38] [Netty Epoll Server IO #0/INFO]: <Qayin> bele[m
-[00:18:10] [Netty Epoll Server IO #0/INFO]: <Qayin> sabe quantas obsidias precisa para a mesa?[m
-[00:18:36] [Server thread/INFO]: Qayin has made the advancement [Ice Bucket Challenge]
-[00:21:58] [Netty Epoll Server IO #3/INFO]: <AlexDambros> n sei[m
-[00:22:04] [Netty Epoll Server IO #0/INFO]: <Qayin> fazendo[m
-[00:23:42] [Server thread/INFO]: Qayin lost connection: Disconnected
-[00:23:42] [Server thread/INFO]: Qayin left the game
-[00:23:45] [User Authenticator #4/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
-[00:23:45] [Server thread/INFO]: Qayin[/143.208.14.89:50576] logged in with entity id 16634 at ([world]-212.77077299267484, 55.0, -215.82289138177447)
-[00:24:36] [Server thread/INFO]: Qayin has made the advancement [Enchanter]
-[00:45:35] [Netty Epoll Server IO #3/INFO]: <AlexDambros> ta onde man[m
-[00:47:50] [Netty Epoll Server IO #3/INFO]: <AlexDambros> to levando os minerio lá pra cima[m
-[00:47:54] [Netty Epoll Server IO #1/INFO]: <Qayin> bele[m
-[00:51:51] [Netty Epoll Server IO #1/INFO]: <Qayin> man, tem diamantes no bau[m
-[00:51:58] [Netty Epoll Server IO #3/INFO]: <AlexDambros> eu vi[m
-[00:51:58] [Netty Epoll Server IO #1/INFO]: <Qayin> se quiser fazer uma picareta top[m
-[00:52:05] [Netty Epoll Server IO #1/INFO]: <Qayin> fica a vontade[m
-[00:52:10] [Netty Epoll Server IO #1/INFO]: <Qayin> acabei de encontrar mais[m
-[00:56:10] [Server thread/INFO]: AlexDambros has made the advancement [Enchanter]
-[01:01:49] [Server thread/INFO]: AlexDambros has made the advancement [Suit Up]
-[01:10:39] [Netty Epoll Server IO #1/INFO]: <Qayin> eai[m
-[01:12:19] [Server thread/INFO]: AlexDambros has made the advancement [What a Deal!]
-[01:14:26] [Netty Epoll Server IO #3/INFO]: <AlexDambros> mano vou sair agr[m
-[01:14:32] [Netty Epoll Server IO #3/INFO]: <AlexDambros> até[m
-[01:14:35] [Netty Epoll Server IO #1/INFO]: <Qayin> flw mano[m
-[01:14:38] [Server thread/INFO]: AlexDambros lost connection: Disconnected
-[01:14:38] [Server thread/INFO]: AlexDambros left the game
-[02:23:43] [Server thread/INFO]: Qayin lost connection: Disconnected
-[02:23:43] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
-[02:23:43] [Server thread/INFO]: Qayin left the game
-[02:23:56] [Server thread/INFO]: Stopping the server
-[02:23:56] [Server thread/INFO]: Stopping server
-[02:23:56] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v0.3
-[02:23:56] [Server thread/INFO]: Saving players
-[02:23:57] [Server thread/INFO]: Saving worlds
-[02:23:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:23:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:23:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:23:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:23:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:23:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:23:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:23:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:23:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:58:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:58:10] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:58:13] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:58:17] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[02:58:17] [Server thread/INFO]: Loading properties
+[02:58:17] [Server thread/INFO]: Default game type: SURVIVAL
+[02:58:17] [Server thread/INFO]: Generating keypair
+[02:58:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:58:18] [Server thread/INFO]: Using epoll channel type
+[02:58:18] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[02:58:20] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02:58:26] [Server thread/WARN]: Legacy plugin EmptyServerStopper v0.3 does not specify an api-version.
+[02:58:26] [Server thread/INFO]: [EmptyServerStopper] Loading EmptyServerStopper v0.3
+[02:58:26] [Server thread/INFO]: Preparing level "world"
+[02:58:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:58:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:30] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:31] [Server thread/INFO]: Preparing spawn area: 40%
+[02:58:31] [Server thread/INFO]: Time elapsed: 4739 ms
+[02:58:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:58:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:34] [Worker-Main-2/INFO]: Preparing spawn area: 76%
+[02:58:34] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:35] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:35] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:36] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:36] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:37] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:37] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:38] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:38] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:39] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:39] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:40] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:40] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:41] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:41] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:42] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:42] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[02:58:43] [Worker-Main-2/INFO]: Preparing spawn area: 91%
+[02:58:43] [Worker-Main-2/INFO]: Preparing spawn area: 91%
+[02:58:44] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[02:58:44] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[02:58:45] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[02:58:45] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[02:58:46] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[02:58:46] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[02:58:47] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[02:58:47] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[02:58:48] [Server thread/INFO]: Time elapsed: 16791 ms
+[02:58:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:58:49] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:49] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:49] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[02:58:49] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[02:58:50] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[02:58:50] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[02:58:51] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[02:58:51] [Server thread/INFO]: Time elapsed: 3413 ms
+[02:58:51] [Server thread/INFO]: [EmptyServerStopper] Enabling EmptyServerStopper v0.3
+[02:58:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:58:51] [Server thread/INFO]: Done (25.419s)! For help, type "help"
+[02:59:10] [User Authenticator #1/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
+[02:59:11] [Server thread/INFO]: Qayin[/143.208.14.54:44392] logged in with entity id 262 at ([world]-220.9071756203751, 57.0, -237.83113041674062)
+[03:06:08] [Server thread/INFO]: Qayin lost connection: Disconnected
+[03:06:08] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
+[03:06:08] [Server thread/INFO]: Qayin left the game
+[03:06:13] [Server thread/INFO]: Stopping the server
+[03:06:13] [Server thread/INFO]: Stopping server
+[03:06:13] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v0.3
+[03:06:13] [Server thread/INFO]: Saving players
+[03:06:14] [Server thread/INFO]: Saving worlds
+[03:06:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:06:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:06:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:06:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
