@@ -1,53 +1,60 @@
-[09:49:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:49:09] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[09:49:10] [Worker-Main-12/INFO]: Loaded 7 recipes
-[09:49:13] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[09:49:13] [Server thread/INFO]: Loading properties
-[09:49:13] [Server thread/INFO]: Default game type: SURVIVAL
-[09:49:13] [Server thread/INFO]: Generating keypair
-[09:49:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:49:13] [Server thread/INFO]: Using default channel type
-[09:49:13] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[09:49:14] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[09:49:18] [Server thread/WARN]: Legacy plugin EmptyServerStopper v0.3 does not specify an api-version.
-[09:49:18] [Server thread/INFO]: [EmptyServerStopper] Loading EmptyServerStopper v0.3
-[09:49:18] [Server thread/INFO]: Preparing level "world"
-[09:49:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:49:19] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:19] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:19] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:19] [Server thread/INFO]: Time elapsed: 1534 ms
-[09:49:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[09:49:20] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:20] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:20] [Worker-Main-12/INFO]: Preparing spawn area: 83%
-[09:49:21] [Worker-Main-14/INFO]: Preparing spawn area: 90%
-[09:49:21] [Worker-Main-9/INFO]: Preparing spawn area: 90%
-[09:49:22] [Worker-Main-13/INFO]: Preparing spawn area: 93%
-[09:49:22] [Server thread/INFO]: Time elapsed: 2904 ms
-[09:49:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[09:49:22] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:23] [Worker-Main-12/INFO]: Preparing spawn area: 86%
-[09:49:23] [Server thread/INFO]: Time elapsed: 634 ms
-[09:49:23] [Server thread/INFO]: [EmptyServerStopper] Enabling EmptyServerStopper v0.3
-[09:49:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[09:49:23] [Server thread/INFO]: Done (5.296s)! For help, type "help"
-[09:49:24] [User Authenticator #1/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
-[09:49:25] [Server thread/INFO]: Qayin[/192.168.31.66:51166] logged in with entity id 266 at ([world]-236.2769446625126, 33.0, -218.699999988079)
-[10:17:06] [Server thread/INFO]: Qayin was slain by Cave Spider
-[14:12:55] [Server thread/INFO]: Qayin lost connection: Disconnected
-[14:12:55] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
-[14:12:55] [Server thread/INFO]: Qayin left the game
-[14:13:06] [Server thread/INFO]: Stopping server
-[14:13:06] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v0.3
-[14:13:06] [Server thread/INFO]: Saving players
-[14:13:07] [Server thread/INFO]: Saving worlds
-[14:13:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:13:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:13:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:13:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:13:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:13:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:13:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:13:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:13:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:16:24] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:16:24] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:16:24] [Worker-Main-12/INFO]: Loaded 7 recipes
+[16:16:26] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:16:26] [Server thread/INFO]: Loading properties
+[16:16:26] [Server thread/INFO]: Default game type: SURVIVAL
+[16:16:26] [Server thread/INFO]: Generating keypair
+[16:16:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:16:26] [Server thread/INFO]: Using default channel type
+[16:16:27] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[16:16:27] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:16:29] [Server thread/WARN]: Legacy plugin EmptyServerStopper v0.3 does not specify an api-version.
+[16:16:29] [Server thread/INFO]: [EmptyServerStopper] Loading EmptyServerStopper v0.3
+[16:16:29] [Server thread/INFO]: Preparing level "world"
+[16:16:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:16:30] [Server thread/INFO]: Preparing spawn area: 0%
+[16:16:30] [Server thread/INFO]: Preparing spawn area: 0%
+[16:16:30] [Server thread/INFO]: Preparing spawn area: 37%
+[16:16:31] [Server thread/INFO]: Time elapsed: 1323 ms
+[16:16:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:16:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:16:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:16:32] [Server thread/INFO]: Preparing spawn area: 83%
+[16:16:32] [Worker-Main-13/INFO]: Preparing spawn area: 90%
+[16:16:33] [Worker-Main-11/INFO]: Preparing spawn area: 90%
+[16:16:33] [Worker-Main-14/INFO]: Preparing spawn area: 90%
+[16:16:34] [Server thread/INFO]: Preparing spawn area: 99%
+[16:16:34] [Server thread/INFO]: Time elapsed: 3005 ms
+[16:16:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[16:16:34] [Worker-Main-14/INFO]: Preparing spawn area: 86%
+[16:16:34] [Server thread/INFO]: Time elapsed: 607 ms
+[16:16:34] [Server thread/INFO]: [EmptyServerStopper] Enabling EmptyServerStopper v0.3
+[16:16:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:16:34] [Server thread/INFO]: Done (5.090s)! For help, type "help"
+[16:20:32] [User Authenticator #1/INFO]: UUID of player Qayin is fb1ae339-aeb9-443c-affa-36f295915de3
+[16:20:32] [Server thread/INFO]: Qayin[/192.168.31.66:55046] logged in with entity id 349 at ([world]-219.1270728704669, 65.0, -243.32235034892722)
+[17:58:15] [Server thread/INFO]: Qayin has made the advancement [Hot Stuff]
+[18:11:23] [Server thread/INFO]: Villager EntityVillager['Villager'/11, l='ServerLevel[world]', x=-216.70, y=62.85, z=-156.44] died, message: 'Villager tried to swim in lava'
+[18:21:50] [Server thread/INFO]: Villager EntityVillager['Villager'/4, l='ServerLevel[world]', x=-216.42, y=62.56, z=-156.35] died, message: 'Villager tried to swim in lava'
+[19:42:49] [Server thread/INFO]: Qayin has made the advancement [Who is Cutting Onions?]
+[19:43:03] [Server thread/INFO]: Qayin drowned
+[20:05:36] [Server thread/ERROR]: Block at -1.813, 56, 370 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityChest@57ad744e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[20:52:40] [Server thread/INFO]: Qayin lost connection: Disconnected
+[20:52:40] [Server thread/INFO]: [EmptyServerStopper] Server empty -> shutdown in 10 minute(s).
+[20:52:40] [Server thread/INFO]: Qayin left the game
+[21:02:40] [Server thread/INFO]: [EmptyServerStopper]Server empty -> shutingdown.[m
+[21:02:40] [Server thread/INFO]: Stopping server
+[21:02:40] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v0.3
+[21:02:40] [Server thread/INFO]: Saving players
+[21:02:41] [Server thread/INFO]: Saving worlds
+[21:02:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:02:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:02:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
